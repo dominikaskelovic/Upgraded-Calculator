@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Dominik\source\repos\calculator_upgraded\calculator_upgraded\MyForm.cpp(5,15): warning C4551: function call missing argument list
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  calculator_upgraded.vcxproj -> C:\Users\Dominik\source\repos\calculator_upgraded\Debug\calculator_upgraded.exe
